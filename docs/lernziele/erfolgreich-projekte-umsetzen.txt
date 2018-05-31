@@ -1,0 +1,32 @@
+1.) Ich kann erklären, warum es gut ist, Ziele aufzuschreiben.
+- Was beinhält eine gute Projektbeschreibung?
+- Wie hilft mir eine Projektbeschreibung?
+- Welche Werkzeuge kann ich für eine Projektbeschreibung nutzen?
+- Hat ein Wiki Vorteile gegenüber klassischen Dokumenten (Word, Excel, etc.)? Wenn ja, welche?
+
+2.) Ich kann erklären, wozu man "Aufgaben" erstellt und wofür man sie nutzt. (Issues)
+- Was sind "Features"? Was sind "Bugs"? Was sind "Aufgaben"? (Issues, Tasks)
+- Welche Werkzeuge kann ich für Aufgaben nutzen?
+- Was ist ein "Backlog"? (z.B. Sprint Backlog)
+- Was ist ein "Board"? (z.B. Sprint Board)
+
+3.) Ich kann die Bedeutung und den Ablauf des Standup-Meetings erklären. (Daily)
+- Wie läuft ein "Daily Standup" ab? Wie lange dauert es? Woran erinnert es? (Tipp: Sportart)
+- Welche 3 Dinge erzählen sich Entwickler im Daily?
+- Warum machen Entwickler ein Daily?
+
+
+Lernmaterial:
+
+- Folien aus dem Unterricht (Übersicht in Abschnitt 3)
+  https://slides.com/bittner/programming-and-robotics/#/3
+
+- Daily (Definition)
+  https://painless.software/daily
+
+- Arbeiten mit Boards (Video), Kanban-Board
+  https://painless.software/kanban
+
+- User Story (Vorlage für Issues)
+  https://painless.software/user-story
+

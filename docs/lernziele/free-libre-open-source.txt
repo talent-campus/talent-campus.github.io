@@ -1,0 +1,53 @@
+1.) Ich kann erklären, was "Source Code" oder "Quellcode" ist.
+- Wozu braucht man Source Code?
+- Was macht man mit Source Code?
+
+2.) Ich kann erklären, was "kommerzielle Software" ist.
+- Was sind die Vorteile/Nachteile? (für mich als Entwickler / für den Endkunden)
+
+3.) Ich kann erklären, was "Open Source Software" (OSS) ist.
+- Was sind die Vorteile/Nachteile? (für mich als Entwickler / für den Endkunden)
+
+4.) Ich kann erklären, was "Free Software" oder "Libre Software" ist.
+- Was sind die Vorteile/Nachteile? (für mich als Entwickler / für den Endkunden)
+
+5.) Ich kann erklären, was "Free/Libre Open Source Software" (FLOSS oder FOSS) bedeutet.
+- Warum gibt es diesen Begriff? (dieses Akronym)
+
+6.) Ich kann erklären, was "Support" (bei Software/Produkten) bedeutet.
+- Wer macht Support bei kommerzieller Software?
+- Wer macht Support bei OSS oder FLOSS Software?
+
+
+Lernmaterial:
+
+- The Story of Linux (3-minütige Einführung)
+  https://www.youtube.com/watch?v=5ocq6_3-nEw
+
+- Revolution OS (The story of GNU/Linux)
+  https://www.youtube.com/watch?v=4vW62KqKJ5A
+
+- The Code (documentary) - The story of GNU, Linux, free software, open source software (with a lot of Finnish and some Chinese)
+  https://www.youtube.com/watch?v=XMm0HsmOTFI
+
+- Open Source versus kommerzielle Software (YouTube)
+  https://www.youtube.com/watch?v=ekPAyMTWFvc
+
+- Open Source (deutsche Wikipedia)
+  https://de.wikipedia.org/wiki/Open_Source
+
+- Freie Software (deutsche Wikipedia)
+  https://de.wikipedia.org/wiki/Freie_Software
+
+- Free/Libre Open Source Software (deutsche Wikipedia)
+  https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software
+
+- Warum Freie Software besser ist als „Open-Source-Software“
+  https://www.gnu.org/philosophy/free-software-for-freedom.de.html
+
+- Freie Hardware = Open-Source-Hardware (deutsche Wikipedia) - (freiwillig!)
+  https://de.wikipedia.org/wiki/Open-Source-Hardware
+
+- Portal „Freie Software“ (deutsche Wikipedia) - (freiwillig!)
+  https://de.wikipedia.org/wiki/Portal:Freie_Software
+

@@ -1,0 +1,49 @@
+1.) Ich habe einen persönlichen Account eröffnet auf:
+- Slack. https://talent-campus.slack.com/
+- GitHub. https://github.com/talent-campus
+- GitLab. https://gitlab.com/talent-campus
+- Bitbucket. https://bitbucket.org/talent-campus
+
+2.) Ich habe auf allen 4 Accounts (Slack, GitHub, GitLab, Bitbucket):
+- Meinen richtigen, vollen Namen (Vorname Nachname) im Benutzerprofil eingestellt
+- Meine Talent-Campus Email-Adresse im Benutzerprofil eingestellt
+- Mein Talent-Campus Profilbild hochgeladen (Tipp: kann vom eduPilot heruntergeladen werden)
+
+3.) Ich kenne Slack, kann es bedienen und die wichtigsten Features erklären:
+- Wofür benutzen wir / benutzen Entwickler Slack? 
+- Was ist im Slack ein "Channel"? Wer kann die Nachrichten dort lesen? 
+- Was ist im Slack eine "Direct Message"? Wer kann die Nachrichten dort lesen?
+
+4.) Ich kenne GitHub, GitLab, Bitbucket, kann es bedienen und die wichtigsten Features erklären:
+- Wofür benutzen wir / benutzen Entwickler GitHub oder GitLab oder Bitbucket?
+- Wofür verwenden wir in GitHub/GitLab/Bitbucket das "Wiki"?
+- Wofür verwenden wir in GitHub/GitLab/Bitbucket die "Issues"?
+- Wofür verwenden wir in GitHub das Feature "Projects" / in GitLab das Feature "Boards" / in Bitbucket das Feature "Boards" (Trello)?
+
+
+Lernmaterial:
+
+- Slack. Team Communication. Team "Talent-Campus"
+  https://talent-campus.slack.com/
+
+- Why Slack? Slack Features.
+  https://slack.com/features
+
+- GitHub Features
+  https://github.com/features
+
+- GitLab Features
+  https://about.gitlab.com/features
+
+- Bitbucket Features
+  https://bitbucket.org/product/features
+
+- Alternatives to Slack = Ähnliche Produkte. (freiwillig!)
+  https://alternativeto.net/software/slack/
+
+- Getting Git Right (umfangreiches Tutorial) - (freiwillig!)
+  https://www.atlassian.com/git
+
+- Pro Git book (Das Git-Buch) - (freiwillig!)
+  https://git-scm.com/book/de/
+
