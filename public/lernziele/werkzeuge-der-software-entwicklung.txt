@@ -46,4 +46,3 @@ Lernmaterial:
 
 - Pro Git book (Das Git-Buch) - (freiwillig!)
   https://git-scm.com/book/de/
-

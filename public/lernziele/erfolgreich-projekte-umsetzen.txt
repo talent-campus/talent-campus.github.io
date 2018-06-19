@@ -29,4 +29,3 @@ Lernmaterial:
 
 - User Story (Vorlage für Issues)
   https://painless.software/user-story
-
