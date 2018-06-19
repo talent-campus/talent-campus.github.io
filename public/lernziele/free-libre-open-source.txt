@@ -2,7 +2,7 @@
 - Wozu braucht man Source Code?
 - Was macht man mit Source Code?
 
-2.) Ich kann erklären, was "kommerzielle Software" ist.
+2.) Ich kann erklären, was "kommerzielle Software" (Closed Source) ist.
 - Was sind die Vorteile/Nachteile? (für mich als Entwickler / für den Endkunden)
 
 3.) Ich kann erklären, was "Open Source Software" (OSS) ist.
