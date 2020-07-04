@@ -1,9 +1,8 @@
-image: alpine:latest
-
 pages:
   stage: deploy
+  image: cyb3rjak3/html5validator
   script:
-  - echo 'Nothing to do...'
+  - html5validator --also-check-css --show-warnings
   artifacts:
     paths:
     - public
